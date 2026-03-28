@@ -49,6 +49,7 @@ git clone https://github.com/your-username/resume-analyzer.git
 cd resume-analyzer
 pip install -r requirements.txt
 streamlit run app.py
+```
 ## 🧪 Usage
 - Upload your resume (PDF)  
 - Paste the job description  
